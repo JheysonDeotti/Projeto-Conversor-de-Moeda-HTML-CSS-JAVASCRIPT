@@ -74,6 +74,8 @@ function changeSelect(){
         currencyName.innerHTML = "Bitcoin"
         imgCurrencyConv.src = "./assets/bitcoin.png"
     }
+    
+    convertValue()
 }
 
 
